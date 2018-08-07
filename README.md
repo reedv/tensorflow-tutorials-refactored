@@ -1,0 +1,1 @@
+Basically, going through the TF docs' tutorial notebooks and refactoring using the principles code tells how comments tell why (ala https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
